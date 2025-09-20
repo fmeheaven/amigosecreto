@@ -21,7 +21,7 @@ Amigo Secreto es una aplicación web interactiva que permite organizar sorteos d
 La aplicación incluye validación de entradas, prevención de duplicados y una experiencia de usuario optimizada con feedback visual inmediato. Perfecta para eventos sociales, dinámicas de equipo o cualquier ocasión que requiera un sorteo justo y aleatorio.
 
 🚀 Estado del Proyecto
-https://img.shields.io/badge/ESTADO-TERMINADO-brightgreen
+
 
 El proyecto está completamente terminado y listo para su uso. Se han implementado todas las funcionalidades planificadas:
 
